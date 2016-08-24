@@ -2,9 +2,6 @@
 
 # directories #
 ###############
-images-copy/**
-wireframes/**
-opt/**
 node_modules/**
 
 
